@@ -57,20 +57,42 @@
   <b>Menambahkan Style pada Form</b></br>
   Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
   
-  ![Screenshot_89](https://user-images.githubusercontent.com/24362384/114853806-5fdd4700-9e0e-11eb-9c58-aada678fdb76.png)
+![Screenshot_90](https://user-images.githubusercontent.com/24362384/114888187-3551b500-9e33-11eb-8ff3-cb2609ea3464.png)
+
 
 </li></ol>
 </p>
 
+<h1>Validasi Dokumen HTML</h1>
+<ul>
+  <li>Dokumen lab3_list.html
+
+![Screenshot_96](https://user-images.githubusercontent.com/24362384/114895195-7fd63000-9e39-11eb-9f72-a7ad6adc5c13.png)
+
+  <li>Dokumen lab3_tabel.html
+  
+ ![Screenshot_97](https://user-images.githubusercontent.com/24362384/114895358-a5fbd000-9e39-11eb-8d6b-df7e6ba3a162.png)
+
+  <li>Dokumen lab3_form.html
+  
+![Screenshot_98](https://user-images.githubusercontent.com/24362384/114895422-b0b66500-9e39-11eb-867a-ae8b12b0715f.png)
+
+  </li>
+</ul>
+  
 <h3>Pertanyaan dan Tugas</h3>
-<p>
-  <ol>
-    <li> Buatlah form yang menampilkan <i><b>dropdown</b></i> menu dan <i><b>listbox</b></i> dengan <i>multiple selection<i>.
-      </li>
-      </ol>
-<p>
+ <ol>
+    <li> Buatlah form yang menampilkan <i><b>dropdown</b></i> menu dan <i><b>listbox</b></i> dengan <i>multiple selection</i></li>
+ </ol>
+ 
  
  <h3>Jawaban</h3>
- form yang menampilkan <i><b>dropdown</b></i> menu dan <i><b>listbox</b></i> dengan <i>multiple selection<i>.
-  
+ <p>
+  form yang menampilkan <i><b>dropdown</b></i> menu dan <i><b>listbox</b></i> dengan <i>multiple selection</i>.
+ </p>
  
+  ![Screenshot_94](https://user-images.githubusercontent.com/24362384/114893745-3507e880-9e38-11eb-89b0-d77e5abcf57b.png)
+
+![Screenshot_95](https://user-images.githubusercontent.com/24362384/114893759-3a653300-9e38-11eb-90b0-24d8cba998a6.png)
+
+![Screenshot_93](https://user-images.githubusercontent.com/24362384/114893789-3fc27d80-9e38-11eb-8aef-85a8d6c8a012.png)
