@@ -61,3 +61,16 @@
 
 </li></ol>
 </p>
+
+<h3>Pertanyaan dan Tugas</h3>
+<p>
+  <ol>
+    <li> Buatlah form yang menampilkan <i><b>dropdown</b></i> menu dan <i><b>listbox</b></i> dengan <i>multiple selection<i>.
+      </li>
+      </ol>
+<p>
+ 
+ <h3>Jawaban</h3>
+ form yang menampilkan <i><b>dropdown</b></i> menu dan <i><b>listbox</b></i> dengan <i>multiple selection<i>.
+  
+ 
