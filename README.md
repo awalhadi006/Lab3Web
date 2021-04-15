@@ -43,6 +43,21 @@
   <b>Menggabungkan Sel Data</b></br>
   Untuk Menggabungkan sel data, gunakan atribut <i>rowspan</i> dan <i>colspan</i>. Atribut <i>rowspan</i> berfungsi untuk menggabungkan baris secara vertikal dan <i>colspan</i> untuk menggabungkan kolom secara horizontal. Tambahan kode untuk menggabungkan baris atau kolom seperti berikut.
   
+  ![Screenshot_86](https://user-images.githubusercontent.com/24362384/114851168-b85f1500-9e0b-11eb-8c34-2f6b7845f85e.png)
+
+  <li><b>Membuat Form</b><br>
+  Buatlah file html baru dengan nama <b>lab3_form.html</b> seperti berikut.
   
+  ![Screenshot_87](https://user-images.githubusercontent.com/24362384/114851634-3f13f200-9e0c-11eb-8faa-0c8c736e7229.png)
+
+  Kemudian selanjutnya tambahkan kode untuk membuat form sederhana seperti berikut.
+  
+  ![Screenshot_88](https://user-images.githubusercontent.com/24362384/114853069-9d8da000-9e0d-11eb-9308-a92192f1b027.png)
+
+  <b>Menambahkan Style pada Form</b></br>
+  Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
+  
+  ![Screenshot_89](https://user-images.githubusercontent.com/24362384/114853806-5fdd4700-9e0e-11eb-9c58-aada678fdb76.png)
+
 </li></ol>
 </p>
